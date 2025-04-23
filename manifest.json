@@ -1,6 +1,6 @@
 {
-  "name": "프리다이빙 스케줄러",
-  "short_name": "프리 스케줄",
+  "name": "Depth Schedule",
+  "short_name": "DepthSched",
   "description": "개인 맞춤형 프리다이빙 훈련 및 영양 스케줄러",
   "start_url": ".",
   "display": "standalone",
